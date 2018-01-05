@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="5" name="Failed suite [LeafTaps]">
+  <test name="Myleads">
+    <classes>
+      <class name="LeafTapsTests.LT01_CreateLead"/>
+      <class name="LeafTapsTests.LT02_EditLead"/>
+      <class name="LeafTapsTests.LT03_DeleteLead"/>
+      <class name="LeafTapsTests.LT04_DuplicateLead"/>
+      <class name="LeafTapsTests.LT05_MergeLeads"/>
+    </classes>
+  </test> <!-- Myleads -->
+</suite> <!-- Failed suite [LeafTaps] -->
